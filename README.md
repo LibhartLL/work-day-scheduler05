@@ -25,7 +25,9 @@ Live GitHub Link  https://libhartll.github.io/work-day-scheduler05/
 GitHub Respository Link https://github.com/LibhartLL/work-day-scheduler05
 
 Screenshots:
-Image 7-13-22 at 5.48 PM.jpg 
+![B33B030D-F5B7-4DF8-A307-D53AE0E3EBA7_1_201_a](https://user-images.githubusercontent.com/104096647/178846650-afe073e2-d6e2-4b56-b282-c18f2dac3b8e.jpeg)
+
+![28CABC65-F58A-44CB-983F-C552842D21E6_1_201_a](https://user-images.githubusercontent.com/104096647/178846676-11590ed8-190a-45b4-a41d-a2df169e9cb9.jpeg)
 
 Contact Lindsay Libhart https://github.com/LibhartLL
 
