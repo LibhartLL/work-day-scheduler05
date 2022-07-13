@@ -22,7 +22,7 @@ This application will run in the browser and features dynamically updated HTML, 
 
 Live GitHub Link  https://libhartll.github.io/work-day-scheduler05/
 
-GitHub Respository Link https://github.com/LibhartLL/work-day-scheduler05
+GitHub Repository Link https://github.com/LibhartLL/work-day-scheduler05
 
 Screenshots:
 ![B33B030D-F5B7-4DF8-A307-D53AE0E3EBA7_1_201_a](https://user-images.githubusercontent.com/104096647/178846650-afe073e2-d6e2-4b56-b282-c18f2dac3b8e.jpeg)
