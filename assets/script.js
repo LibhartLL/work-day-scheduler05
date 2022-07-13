@@ -68,6 +68,6 @@ $(document).ready(function () {
 });
 
 
-//save each to local storage when save is clicked
+
 
 
